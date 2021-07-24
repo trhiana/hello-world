@@ -1,3 +1,3 @@
 # hello-world
 
-This sis a simple hello world app
+This is a simple hello world app
